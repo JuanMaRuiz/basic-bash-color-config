@@ -1,3 +1,3 @@
 # Simple bash color config
 
-![screen-grab](basic-bash-color-config/simple-bash-color-config.png)
+![screen-grab](https://github.com/JuanMaRuiz/basic-bash-color-config/blob/master/simple-bash-color-config.png?raw=true)
